@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bocioaca Cristian</h1>
 <h3 align="center">Very passionate about IT and Hardware!</h3>
 
-<p align="right"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> </p>
-
+<p><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bocioacacristian&label=Profile%20views&color=0e75b6&style=flat" alt="bocioacacristian" /> </p>
 
