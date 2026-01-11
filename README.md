@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bocioaca Cristian</h1>
+<h1 align="center">Hi, I'm Bocioaca Cristian</h1>
 <h3 align="center">
   A passionate Frontend Developer focused on JavaScript & React, with a growing interest in game development 🎮
 </h3>
