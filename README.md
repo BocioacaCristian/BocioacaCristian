@@ -44,27 +44,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
   </a>
 </p>
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=bocioacacristian&show_icons=true&locale=en&layout=compact"
-    alt="Top languages"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=bocioacacristian&show_icons=true&locale=en"
-    alt="GitHub stats"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=bocioacacristian"
-    alt="GitHub streak"
-  />
-</p>
