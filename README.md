@@ -3,7 +3,7 @@
   A passionate Frontend Developer focused on JavaScript & React, with a growing interest in game development 🎮
 </h3>
 
-<img align="right" alt="Coding" width="400" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://64.media.tumblr.com/290b97583d3fa499df9951ca8afa6575/31b8fc82f57af462-d4/s1280x1920/d84608f39307219d35e5de0a9b50d1e2bd80ac14.gif)">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://64.media.tumblr.com/290b97583d3fa499df9951ca8afa6575/31b8fc82f57af462-d4/s1280x1920/d84608f39307219d35e5de0a9b50d1e2bd80ac14.gif">
 
 - 🔭 I’m currently building **modern web applications using JavaScript, React, TypeScript, and Vite**
 
